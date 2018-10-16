@@ -1,6 +1,7 @@
 # Bootleg
 
 [![CircleCI](https://img.shields.io/circleci/project/github/labzero/bootleg/master.svg)](https://circleci.com/gh/labzero/bootleg) [![Hex.pm](https://img.shields.io/hexpm/v/bootleg.svg)](https://hex.pm/packages/bootleg) [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/labzero/bootleg/blob/master/LICENSE)
+[![Coverage Status](https://coveralls.io/repos/github/rjanja/bootleg/badge.svg?branch=radams/circle-cache-changes)](https://coveralls.io/github/rjanja/bootleg?branch=radams/circle-cache-changes)
 
 Simple deployment and server automation for Elixir.
 
